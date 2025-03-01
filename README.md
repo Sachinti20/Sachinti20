@@ -1,3 +1,11 @@
+ <pre>
+- 👋 Hi, I’m @Sachinti20
+- 👀 I’m interested in web development (2024)
+- 🌱 I’m currently learning c, c++, HTML,CSS,Javascript.
+- 💞️ I’m looking for a mentor
+  </pre>
+<br>
+<hr>
 <div align="center"> 
 <h2 align="center">🏆 LeetCode Stats<h2>  
   <hr>
@@ -13,12 +21,6 @@
 </p>
 </br>
   <hr>
-  <pre>
-- 👋 Hi, I’m @Sachinti20
-- 👀 I’m interested in web development (2024)
-- 🌱 I’m currently learning c, c++, HTML,CSS,Javascript.
-- 💞️ I’m looking for a mentor
-  </pre>
 </br>
 <hr>
 
